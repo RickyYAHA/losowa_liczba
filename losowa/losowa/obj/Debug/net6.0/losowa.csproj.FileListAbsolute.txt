@@ -1,0 +1,15 @@
+C:\Users\kaspe\OneDrive\Pulpit\zadania\losowa\losowa\losowa\bin\Debug\net6.0\losowa.exe
+C:\Users\kaspe\OneDrive\Pulpit\zadania\losowa\losowa\losowa\bin\Debug\net6.0\losowa.deps.json
+C:\Users\kaspe\OneDrive\Pulpit\zadania\losowa\losowa\losowa\bin\Debug\net6.0\losowa.runtimeconfig.json
+C:\Users\kaspe\OneDrive\Pulpit\zadania\losowa\losowa\losowa\bin\Debug\net6.0\losowa.dll
+C:\Users\kaspe\OneDrive\Pulpit\zadania\losowa\losowa\losowa\bin\Debug\net6.0\losowa.pdb
+C:\Users\kaspe\OneDrive\Pulpit\zadania\losowa\losowa\losowa\obj\Debug\net6.0\losowa.csproj.AssemblyReference.cache
+C:\Users\kaspe\OneDrive\Pulpit\zadania\losowa\losowa\losowa\obj\Debug\net6.0\losowa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaspe\OneDrive\Pulpit\zadania\losowa\losowa\losowa\obj\Debug\net6.0\losowa.AssemblyInfoInputs.cache
+C:\Users\kaspe\OneDrive\Pulpit\zadania\losowa\losowa\losowa\obj\Debug\net6.0\losowa.AssemblyInfo.cs
+C:\Users\kaspe\OneDrive\Pulpit\zadania\losowa\losowa\losowa\obj\Debug\net6.0\losowa.csproj.CoreCompileInputs.cache
+C:\Users\kaspe\OneDrive\Pulpit\zadania\losowa\losowa\losowa\obj\Debug\net6.0\losowa.dll
+C:\Users\kaspe\OneDrive\Pulpit\zadania\losowa\losowa\losowa\obj\Debug\net6.0\refint\losowa.dll
+C:\Users\kaspe\OneDrive\Pulpit\zadania\losowa\losowa\losowa\obj\Debug\net6.0\losowa.pdb
+C:\Users\kaspe\OneDrive\Pulpit\zadania\losowa\losowa\losowa\obj\Debug\net6.0\losowa.genruntimeconfig.cache
+C:\Users\kaspe\OneDrive\Pulpit\zadania\losowa\losowa\losowa\obj\Debug\net6.0\ref\losowa.dll
